@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>1-floren.png</file>
+        <file>images.png</file>
+        <file>2.png</file>
+        <file>Hourglasses.png</file>
+        <file>Shield.png</file>
+        <file>cross.png</file>
+        <file>New.PNG</file>
+        <file>Common.PNG</file>
+        <file>FlameArrow.png</file>
+        <file>Scroll.png</file>
+        <file>MagicShield.png</file>
+        <file>MagicBook.png</file>
+    </qresource>
+</RCC>
